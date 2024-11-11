@@ -1,0 +1,25 @@
+body {
+    background-image: url("1971537.jpg");
+}
+
+#jumbotron {
+    margin-top: 100px !important;
+    
+}
+
+.fixed-size {
+    height: 300px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+
+button{
+    position: absolute;
+}
+
+.fixed-size1{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
